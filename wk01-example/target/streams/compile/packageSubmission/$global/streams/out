@@ -1,0 +1,5 @@
+[info] Packaging /Users/grewalr/_DEV/codebase/scala/coursera_progfun2/wk00-example/target/scala-2.11/progfun2-example_2.11-0.1-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	example/Lists.scala
+[debug] 	  /Users/grewalr/_DEV/codebase/scala/coursera_progfun2/wk00-example/src/main/scala/example/Lists.scala
+[info] Done packaging.
