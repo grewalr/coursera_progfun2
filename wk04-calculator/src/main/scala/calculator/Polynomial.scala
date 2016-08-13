@@ -30,8 +30,8 @@ object Polynomial
       if(d > 0)
       {
         Set(
-          BigDecimal(((-y) + Math.sqrt(d)) / (2 * x)).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble,
-          BigDecimal(((-y) - Math.sqrt(d)) / (2 * x)).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
+          ((-y) + Math.sqrt(d)) / (2 * x),
+          ((-y) - Math.sqrt(d)) / (2 * x)
         )
       }
       else Set(0.0, 0.0)
